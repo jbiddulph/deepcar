@@ -1,0 +1,123 @@
+[
+  {
+    "key": "hero-farm",
+    "file": "File:012 Hay bales during harvest in Meuse Department, France - Creative Commons free stock photo with attribution.jpg",
+    "license": "CC BY 3.0",
+    "artist": "Marek \u015alusarczyk (Tupungato) Photo portfolio",
+    "source": "Wikimedia Commons",
+    "local": "/images/hero-farm.jpg"
+  },
+  {
+    "key": "category-feed",
+    "file": "File:Grain stacked at warehouse, Endicott, Washington, 1900",
+    "license": "Public domain",
+    "artist": "",
+    "source": "Wikimedia Commons",
+    "local": "/images/category-feed.jpg"
+  },
+  {
+    "key": "category-equine",
+    "file": "File:Horse Paddock By The A6144 - geograph.org.uk - 1338014.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Whatlep",
+    "source": "Wikimedia Commons",
+    "local": "/images/category-equine.jpg"
+  },
+  {
+    "key": "category-livestock",
+    "file": "File:A flock of sheep on Bridge Farm, Hunningham - geograph.org.uk - 1573941.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Andy F",
+    "source": "Wikimedia Commons",
+    "local": "/images/category-livestock.jpg"
+  },
+  {
+    "key": "category-hay",
+    "file": "File:A large stack of straw bales at Marsh Farm, Runham - geograph.org.uk - 2237899.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Evelyn Simak",
+    "source": "Wikimedia Commons",
+    "local": "/images/category-hay.jpg"
+  },
+  {
+    "key": "category-bedding",
+    "file": "File:Woodchips.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Aashna S",
+    "source": "Wikimedia Commons",
+    "local": "/images/category-bedding.jpg"
+  },
+  {
+    "key": "category-dairy",
+    "file": "File:2022 Wisconsin State Fair 56 (Milking Parlor).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Michael Barera",
+    "source": "Wikimedia Commons",
+    "local": "/images/category-dairy.jpg"
+  },
+  {
+    "key": "category-pets",
+    "file": "File:Cat and Dog pet shop, Aboyne - geograph.org.uk - 4509782.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Stanley Howe",
+    "source": "Wikimedia Commons",
+    "local": "/images/category-pets.jpg"
+  },
+  {
+    "key": "product-horse-nuts",
+    "file": "Coping with Extreme Weather \u2013 Red Moon Sanctuary, Redmond, Western Australia",
+    "license": "by 2.0",
+    "artist": "Red Moon Sanctuary",
+    "source": "Openverse / flickr",
+    "foreign_landing_url": "https://www.flickr.com/photos/71646105@N03/35161189134",
+    "local": "/images/product-horse-nuts.jpg"
+  },
+  {
+    "key": "product-layers-pellets",
+    "file": "File:Free-range chickens - geograph.org.uk - 969328.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Rob Purvis",
+    "source": "Wikimedia Commons",
+    "local": "/images/product-layers-pellets.jpg"
+  },
+  {
+    "key": "product-sheep-nuts",
+    "file": "File:Flock of sheep.jpg",
+    "license": "Public domain",
+    "artist": "Keith Weller",
+    "source": "Wikimedia Commons",
+    "local": "/images/product-sheep-nuts.jpg"
+  },
+  {
+    "key": "product-dog-complete",
+    "file": "File:DSC 8677 Happy pup soaking up the sun with a big smile and wagging tail.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "PattayaPatrol",
+    "source": "Wikimedia Commons",
+    "local": "/images/product-dog-complete.jpg"
+  },
+  {
+    "key": "product-cat-litter",
+    "file": "File:Cat Assistant.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Lesia Buzhuk17",
+    "source": "Wikimedia Commons",
+    "local": "/images/product-cat-litter.jpg"
+  },
+  {
+    "key": "product-shavings",
+    "file": "File:Woodchips.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Aashna S",
+    "source": "Wikimedia Commons",
+    "local": "/images/product-shavings.jpg"
+  },
+  {
+    "key": "about-shop",
+    "file": "File:Agricultural Supplies - Builders Merchant, Gortin - geograph.org.uk - 6249399.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Kenneth  Allen",
+    "source": "Wikimedia Commons",
+    "local": "/images/about-shop.jpg"
+  }
+]
